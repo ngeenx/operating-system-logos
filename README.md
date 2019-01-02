@@ -14,7 +14,7 @@ Operating System Logos in Different Sizes
 - 128x128
 
 ## List of OS Names and Custom Short Codes
-Image files are named according to these short codes (**see the [reference](https://github.com/matomo-org/device-detector/blob/c136bf9147bd8f33746b1915331fba133d076ed5/Parser/OperatingSystem.php#L30)**). Current and frequently used logos defining operating systems were selected. Therefore, the version or naming differences were ignored when listing.
+Image files are named according to these titles (**see the [reference](https://github.com/matomo-org/device-detector/blob/c136bf9147bd8f33746b1915331fba133d076ed5/Parser/OperatingSystem.php#L30)**). Current and frequently used logos defining operating systems were selected. Therefore, the version or naming differences were ignored when listing.
 ```json
 {
     "AIX": "AIX ✅",
@@ -23,7 +23,7 @@ Image files are named according to these short codes (**see the [reference](http
     "ATV": "Apple TV ✅",
     "ARL": "Arch Linux ✅",
     "BTR": "BackTrack",
-    "SBA": "Bada",
+    "SBA": "Bada ✅",
     "BEO": "BeOS",
     "BLB": "BlackBerry OS",
     "QNX": "BlackBerry Tablet OS",
