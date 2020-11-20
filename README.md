@@ -1,10 +1,17 @@
 # operating-system-logos
 Operating System Logos in Different Sizes 
 
+## Installation
+
+#### NPM
+`npm i @egoistdeveloper/operating-system-logos`
+
+## Icons Meaning
+
 ❌: unavailable
 ✅: available
 
-# Available Sizes
+## Available Sizes
 
 - 16x16
 - 24-x24

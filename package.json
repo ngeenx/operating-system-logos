@@ -1,0 +1,26 @@
+{
+  "name": "@egoistdeveloper/operating-system-logos",
+  "version": "1.0.0",
+  "description": "Operating System Logos in Different Sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgoistDeveloper/operating-system-logos.git",
+    "directory": "src"
+  },
+  "keywords": [
+    "os",
+    "operating",
+    "sytem",
+    "logo"
+  ],
+  "author": "EgoistDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EgoistDeveloper/operating-system-logos/issues"
+  },
+  "homepage": "https://github.com/EgoistDeveloper/operating-system-logos#readme"
+}
