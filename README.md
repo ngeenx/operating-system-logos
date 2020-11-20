@@ -109,4 +109,4 @@ Image files are named according to these titles (**see the [reference](https://g
 
 ### Legal
 All logos and trademarks are the property of their respective owners!
-If you represent the entity that has the rights over a logo and you want, for whatever reason, that logo removed from this project, **[open an issue](https://github.com/alrra/browser-logos/issues/new)** requesting its takedown and we will remove it as soon as possible.
+If you represent the entity that has the rights over a logo and you want, for whatever reason, that logo removed from this project, **[open an issue](https://github.com/EgoistDeveloper/operating-system-logos/issues/new)** requesting its takedown and we will remove it as soon as possible.
