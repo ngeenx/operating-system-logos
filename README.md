@@ -28,86 +28,87 @@ Image files are named according to these titles (*see the **[reference](https://
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
-| ![](src/32x32/AIX.png "AIX") | AIX | AIX | ✅ |
-| ![](src/32x32/android.png "Android") | AND | Android | ✅ |
-| ![](src/32x32/amigaos.png "AmigaOS") | AMG | AmigaOS | ✅ |
-| ![](src/32x32/amigaos.png "Apple TV") | ATV | Apple TV | ✅ |
-| ![](src/32x32/arch-linux.png "Arch Linux") | ARL | Arch Linux | ✅ |
-| ![](src/32x32/backtrack.png "BackTrack") | BTR | BackTrack | ✅ |
-| ![](src/32x32/bada.png "Bada") | SBA | Bada | ✅ |
-| ![](src/32x32/beos.png "BeOS") | BEO | BeOS | ✅ |
+| ![](src/48x48/AIX.png "AIX") | AIX | AIX | ✅ |
+| ![](src/48x48/AND.png "AND") | AND | Android | ✅ |
+| ![](src/48x48/AMG.png "AMG") | AMG | AmigaOS | ✅ |
+| ![](src/48x48/ATV.png "ATV") | ATV | Apple TV | ✅ |
+| ![](src/48x48/ARL.png "ARL") | ARL | Arch Linux | ✅ |
+| ![](src/48x48/BTR.png "BTR") | BTR | BackTrack | ✅ |
+| ![](src/48x48/SBA.png "SBA") | SBA | Bada | ✅ |
+| ![](src/48x48/BEO.png "BEO") | BEO | BeOS | ✅ |
 | ............ | BLB | BlackBerry OS | ❌ |
 | ............ | QNX | BlackBerry Tablet OS | ❌ |
 | ............ | BMP | Brew | ❌ |
-| ![](src/32x32/centos.png "CentOS") | CES | CentOS | ✅ |
-| ![](src/32x32/chrome-os.png "Chrome OS") | COS | Chrome OS | ✅ |
-| ![](src/32x32/cyanogenmod.png "CyanogenMod") | CYN | CyanogenMod | ✅ |
-| ![](src/32x32/debian.png "Debian") | DEB | Debian | ✅ |
-| ............ | DFB | DragonFly | ⭕ |
-| ![](src/32x32/fedora.png "Fedora") | FED | Fedora | ✅ |
-| ![](src/32x32/firefox-os.png "Firefox OS") | FOS | Firefox OS | ✅ |
-| ............ | FIR | Fire OS | ⭕ |
-| ![](src/32x32/freebsd.png "FreeBSD") | BSD | FreeBSD | ✅ |
-| ![](src/32x32/gentoo.png "Gentoo") | GNT | Gentoo | ✅ |
+| ![](src/48x48/CES.png "CES") | CES | CentOS | ✅ |
+| ![](src/48x48/COS.png "COS") | COS | Chrome OS | ✅ |
+| ![](src/48x48/CYN.png "CYN") | CYN | CyanogenMod | ✅ |
+| ![](src/48x48/DEB.png "DEB") | DEB | Debian | ✅ |
+| ............ | DFB | DragonFly | ❌ |
+| ![](src/48x48/FED.png "FED") | FED | Fedora | ✅ |
+| ![](src/48x48/FOS.png "FOS") | FOS | Firefox OS | ✅ |
+| ............ | FIR | Fire OS | ❌ |
+| ![](src/48x48/BSD.png "BSD") | BSD | FreeBSD | ✅ |
+| ![](src/48x48/GNT.png "GNT") | GNT | Gentoo | ✅ |
 | ............ | GTV | Google TV | ❌ |
-| ![](src/32x32/hp-ux.png "HP-UX") | HPX | HP-UX | ✅ |
-| ![](src/32x32/haiku-os.png "Haiku OS") | HAI | Haiku OS | ✅ |
+| ![](src/48x48/HPX.png "HPX") | HPX | HP-UX | ✅ |
+| ![](src/48x48/HAI.png "HAI") | HAI | Haiku OS | ✅ |
 | ............ | IRI | IRIX | ❌ |
 | ............ | INF | Inferno | ❌ |
-| ![](src/32x32/kaios.png "KaiOS") | KOS | KaiOS | ✅ |
-| ![](src/32x32/knoppix.png "Knoppix") | KNO | Knoppix | ✅ |
-| ![](src/32x32/kubuntu.png "Kubuntu") | KBT | Kubuntu | ✅ |
-| ![](src/32x32/linux.png "Linux") | LIN | Linux | ✅ |
-| ![](src/32x32/lubuntu.png "Lubuntu") | LBT | Lubuntu | ✅ |
+| ![](src/48x48/KOS.png "KOS") | KOS | KaiOS | ✅ |
+| ![](src/48x48/KNO.png "KNO") | KNO | Knoppix | ✅ |
+| ![](src/48x48/KBT.png "KBT") | KBT | Kubuntu | ✅ |
+| ![](src/48x48/LIN.png "LIN") | LIN | Linux | ✅ |
+| ![](src/48x48/LBT.png "LBT") | LBT | Lubuntu | ✅ |
 | ............ | VLN | VectorLinux | ❌ |
-| ![](src/32x32/mac.png "Mac") | MAC | Mac | ✅ |
-| ![](src/32x32/maemo.png "Maemo") | MAE | Maemo | ✅ |
-| ![](src/32x32/mandriva.png "Mandriva") | MDR | Mandriva | ✅ |
-| ![](src/32x32/meego.png "MeeGo") | SMG | MeeGo | ✅ |
+| ![](src/48x48/MAC.png "MAC") | MAC | Mac | ✅ |
+| ![](src/48x48/MAE.png "MAE") | MAE | Maemo | ✅ |
+| ![](src/48x48/MDR.png "MDR") | MDR | Mandriva | ✅ |
+| ![](src/48x48/SMG.png "SMG") | SMG | MeeGo | ✅ |
 | ............ | MCD | MocorDroid | ❌ |
-| ![](src/32x32/mint.png "Mint") | MIN | Mint | ✅ |
+| ![](src/48x48/MIN.png "MIN") | MIN | Mint | ✅ |
 | ............ | MLD | MildWild | ❌ |
 | ............ | MOR | MorphOS | ❌ |
-| ![](src/32x32/netbsd.png "NetBSD") | NBS | NetBSD | ✅ |
+| ![](src/48x48/NBS.png "NBS") | NBS | NetBSD | ✅ |
 | ............ | MTK | MTK / Nucleus | ❌ |
-| ![](src/32x32/nintendo.png "Nintendo") | WII | Nintendo | ✅ |
+| ![](src/48x48/WII.png "WII") | WII | Nintendo | ✅ |
 | ............ | NDS | Nintendo Mobile | ❌ |
-| ![](src/32x32/os2.png "OS/2") | OS2 | OS/2 | ✅ |
+| ![](src/48x48/OS2.png "OS2") | OS2 | OS/2 | ✅ |
 | ............ | T64 | OSF1 | ❌ |
-| ![](src/32x32/openbsd.png "OpenBSD") | OBS | OpenBSD | ✅ |
-| ![](src/32x32/playstation-portable.png "PlayStation Portable") | PSP | PlayStation Portable | ✅ |
-| ![](src/32x32/playstation.png "PlayStation") | PS3 | PlayStation | ✅ |
-| ![](src/32x32/red-hat.png "Red Hat") | RHT | Red Hat | ✅ |
-| ![](src/32x32/risc-os.png "RISC OS") | ROS | RISC OS | ✅ |
-| ![](src/32x32/remix-os.png "Remix OS") | REM | Remix OS | ✅ |
+| ![](src/48x48/OBS.png "OBS") | OBS | OpenBSD | ✅ |
+| ![](src/48x48/PSP.png "PSP") | PSP | PlayStation Portable | ✅ |
+| ![](src/48x48/PS3.png "PS3") | PS3 | PlayStation | ✅ |
+| ![](src/48x48/RHT.png "RHT") | RHT | Red Hat | ✅ |
+| ![](src/48x48/ROS.png "ROS") | ROS | RISC OS | ✅ |
+| ![](src/48x48/REM.png "REM") | REM | Remix OS | ✅ |
 | ............ | RZD | RazoDroiD | ❌ |
-| ![](src/32x32/sabayon.png "Sabayon") | SAB | Sabayon | ✅ |
-| ![](src/32x32/suse.png "SUSE") | SSE | SUSE | ✅ |
-| ![](src/32x32/sailfish-os.png "Sailfish OS") | SAF | Sailfish OS | ✅ |
-| ![](src/32x32/slackware.png "Slackware") | SLW | Slackware | ✅ |
-| ![](src/32x32/solaris.png "Solaris") | SOS | Solaris | ✅ |
-| ![](src/32x32/syllable.png "Syllable") | SYL | Syllable | ✅ |
-| ![](src/32x32/symbian.png "Symbian") | SYM | Symbian | ✅ |
-| ![](src/32x32/symbian-os.png "Symbian OS") | SYS | Symbian OS | ✅ |
-| ![](src/32x32/symbian-os-series-40.png "Symbian OS Series 40") | S40 | Symbian OS Series 40 | ✅ |
-| ![](src/32x32/symbian-os-series-60.png "Symbian OS Series 60") | S60 | Symbian OS Series 60 | ✅ |
-| ![](src/32x32/symbian-3.png "Symbian^3") | SY3 | Symbian^3 | ✅ |
-| ![](src/32x32/threadx.png "ThreadX") | TDX | ThreadX | ✅ |
-| ![](src/32x32/tizen.png "Tizen") | TIZ | Tizen | ✅ |
-| ![](src/32x32/ubuntu.png "Ubuntu") | UBT | Ubuntu | ✅ |
+| ![](src/48x48/SAB.png "SAB") | SAB | Sabayon | ✅ |
+| ![](src/48x48/SSE.png "SSE") | SSE | SUSE | ✅ |
+| ![](src/48x48/SAF.png "SAF") | SAF | Sailfish OS | ✅ |
+| ![](src/48x48/SLW.png "SLW") | SLW | Slackware | ✅ |
+| ![](src/48x48/SOS.png "SOS") | SOS | Solaris | ✅ |
+| ![](src/48x48/SYL.png "SYL") | SYL | Syllable | ✅ |
+| ![](src/48x48/SYM.png "SYM") | SYM | Symbian | ✅ |
+| ![](src/48x48/SYS.png "SYS") | SYS | Symbian OS | ✅ |
+| ![](src/48x48/S40.png "S40") | S40 | Symbian OS Series 40 | ✅ |
+| ![](src/48x48/S60.png "S60") | S60 | Symbian OS Series 60 | ✅ |
+| ![](src/48x48/SY3.png "SY3") | SY3 | Symbian^3 | ✅ |
+| ![](src/48x48/TDX.png "TDX") | TDX | ThreadX | ✅ |
+| ![](src/48x48/TIZ.png "TIZ") | TIZ | Tizen | ✅ |
+| ![](src/48x48/UBT.png "UBT") | UBT | Ubuntu | ✅ |
 | ............ | WTV | WebTV | ❌ |
-| ![](src/32x32/windows.png "Windows") | WIN | Windows | ✅ |
-| ![](src/32x32/windows-ce.png "Windows CE") | WCE | Windows CE | ✅ |
-| ![](src/32x32/windows-ce.png "Windows IoT") | WIO | Windows IoT | ✅ |
-| ![](src/32x32/windows-mobile.png "Windows Mobile") | WMO | Windows Mobile | ✅ |
-| ![](src/32x32/windows-phone.png "Windows Phone") | WPH | Windows Phone | ✅ |
-| ![](src/32x32/windows-phone-rt.png "Windows RT") | WRT | Windows RT | ✅ |
-| ![](src/32x32/xbox.png "Xbox") | XBX | Xbox | ✅ |
-| ![](src/32x32/xubuntu.png "Xubuntu") | XBT | Xubuntu | ✅ |
-| ![](src/32x32/yunos.png "YunOs") | YNS | YunOs | ✅ |
-| ![](src/32x32/IOS.png "iOS") | IOS | iOS | ✅ |
-| ............ | POS | palmOS | ⭕ |
-| ![](src/32x32/webos.png "webOS") | WOS | webOS | ✅ |
+| ![](src/48x48/WIN.png "WIN") | WIN | Windows | ✅ |
+| ![](src/48x48/WCE.png "WCE") | WCE | Windows CE | ✅ |
+| ![](src/48x48/WIO.png "WIO") | WIO | Windows IoT | ✅ |
+| ![](src/48x48/WMO.png "WMO") | WMO | Windows Mobile | ✅ |
+| ![](src/48x48/WPH.png "WPH") | WPH | Windows Phone | ✅ |
+| ![](src/48x48/WRT.png "WRT") | WRT | Windows RT | ✅ |
+| ![](src/48x48/XBX.png "XBX") | XBX | Xbox | ✅ |
+| ![](src/48x48/XBT.png "XBT") | XBT | Xubuntu | ✅ |
+| ![](src/48x48/YNS.png "YNS") | YNS | YunOs | ✅ |
+| ![](src/48x48/IOS.png "IOS") | IOS | iOS | ✅ |
+| ![](src/48x48/POS.png "POS") | POS | palmOS | ✅ |
+| ![](src/48x48/WOS.png "WOS") | WOS | webOS | ✅ |
+
 
 
 ## Legal
