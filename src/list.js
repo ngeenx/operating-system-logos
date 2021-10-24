@@ -6,9 +6,10 @@
 const http = require('http');
 const fs = require('fs');
 
-const hostname = '127.0.0.1';
-const port = 2021;
-const sizeList = [16, 24, 32, 48, 64, 128];
+const hostname = '127.0.0.1',
+    port = 2021,
+    sizeList = [16, 24, 32, 48, 64, 128],
+    baseRepoAddress = 'https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master';
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200;
@@ -40,7 +41,7 @@ const server = http.createServer((req, res) => {
 
                 console.log(`❌ ${osItem[1]} (${osItem[0]}): all logos not found.\n--------------------------`);
             } else if (logoStackCount == sizeList.length) {
-                tableMarkdown += `| ![](src/48x48/${osItem[0]}.png "${osItem[0]}") | ${osItem[0]} | ${osItem[1]} | ✅ |\n`;
+                tableMarkdown += `| ![](${baseRepoAddress}/src/48x48/${osItem[0]}.png "${osItem[0]}") | ${osItem[0]} | ${osItem[1]} | ✅ |\n`;
 
                 availableItems += 1;
             } else if (logoStackCount > 0 && logoStackCount < sizeList.length) {
