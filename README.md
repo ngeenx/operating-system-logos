@@ -26,6 +26,8 @@ Image files are named according to these titles (*see the **[reference](https://
 
 ## Preview List
 
+⚠️ Logo previews may not work properly while dark mode using.
+
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/AIX.png "AIX (48x48)") | AIX | AIX | ✅ |
