@@ -60,9 +60,11 @@ const server = http.createServer((req, res) => {
             //#endregion
         });
 
-        console.log(`\nTotal: ${osList.length}, available: ${availableItems}, unavailable: ${osList.length - availableItems}\n\n`);
+        const totalStatistics = `⚠️ Total: ${osList.length}, Available: ${availableItems}, Unavailable: ${osList.length - availableItems}`;
+
+        console.log(`\n${totalStatistics}\n\n`);
         
-        res.end(tableMarkdown);
+        res.end(`${totalStatistics}\n\n${tableMarkdown}`);
     } catch (err) {
         res.end(err.toString());
     }

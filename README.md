@@ -28,6 +28,8 @@ Image files are named according to these titles (*see the **[reference](https://
 
 ⚠️ Logo previews may not work properly while dark mode using.
 
+⚠️ Total: 104, Available: 63, Unavailable: 41
+
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/AIX.png "AIX (48x48)") | AIX | AIX | ✅ |
