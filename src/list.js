@@ -64,7 +64,7 @@ const server = http.createServer((req, res) => {
         
         res.end(tableMarkdown);
     } catch (err) {
-        res.end(err);
+        res.end(err.toString());
     }
 });
 
