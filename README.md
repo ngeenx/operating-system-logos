@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 69, Unavailable: 35
+⚠️ Total: 104, Available: 70, Unavailable: 34
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -64,7 +64,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HPX.png "HPX (48x48)") | HPX | HP-UX | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAI.png "HAI (48x48)") | HAI | Haiku OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/IPA.png "IPA (48x48)") | IPA | iPadOS | ✅ |
-| ............ | HAR | HarmonyOS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAR.png "HAR (48x48)") | HAR | HarmonyOS | ✅ |
 | ............ | HAS | HasCodingOS | ❌ |
 | ............ | IRI | IRIX | ❌ |
 | ............ | INF | Inferno | ❌ |
