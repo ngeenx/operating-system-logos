@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 67, Unavailable: 37
+⚠️ Total: 104, Available: 68, Unavailable: 36
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -49,7 +49,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CYN.png "CYN (48x48)") | CYN | CyanogenMod | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEB.png "DEB (48x48)") | DEB | Debian | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEE.png "DEE (48x48)") | DEE | Deepin | ✅ |
-| ............ | DFB | DragonFly | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DFB.png "DFB (48x48)") | DFB | DragonFly | ✅ |
 | ............ | DVK | DVKBuntu | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FED.png "FED (48x48)") | FED | Fedora | ✅ |
 | ............ | FEN | Fenix | ❌ |
