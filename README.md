@@ -26,7 +26,9 @@ Image files are named according to these titles (*see the **[reference](https://
 
 ## Preview List
 
-⚠️⚠️ Total: 104, Available: 66, Unavailable: 38
+<!-- TABLE_START -->
+
+⚠️ Total: 104, Available: 67, Unavailable: 37
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -41,7 +43,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BLB.png "BLB (48x48)") | BLB | BlackBerry OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/QNX.png "QNX (48x48)") | QNX | BlackBerry Tablet OS | ✅ |
 | ............ | BMP | Brew | ❌ |
-| ............ | CAI | Caixa Mágica | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CAI.png "CAI (48x48)") | CAI | Caixa Mágica | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CES.png "CES (48x48)") | CES | CentOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/COS.png "COS (48x48)") | COS | Chrome OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CYN.png "CYN (48x48)") | CYN | CyanogenMod | ✅ |
@@ -134,6 +136,8 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/IOS.png "IOS (48x48)") | IOS | iOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/POS.png "POS (48x48)") | POS | palmOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WOS.png "WOS (48x48)") | WOS | webOS | ✅ |
+
+<!-- TABLE_END -->
 
 
 ## Legal
