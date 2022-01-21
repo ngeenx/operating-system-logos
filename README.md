@@ -26,9 +26,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 ## Preview List
 
-⚠️ Logo previews may not work properly while dark mode using.
-
-⚠️ Total: 104, Available: 63, Unavailable: 41
+⚠️ Total: 104, Available: 65, Unavailable: 39
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -40,8 +38,8 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BTR.png "BTR (48x48)") | BTR | BackTrack | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SBA.png "SBA (48x48)") | SBA | Bada | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BEO.png "BEO (48x48)") | BEO | BeOS | ✅ |
-| ............ | BLB | BlackBerry OS | ❌ |
-| ............ | QNX | BlackBerry Tablet OS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BLB.png "BLB (48x48)") | BLB | BlackBerry OS | ✅ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/QNX.png "QNX (48x48)") | QNX | BlackBerry Tablet OS | ✅ |
 | ............ | BMP | Brew | ❌ |
 | ............ | CAI | Caixa Mágica | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CES.png "CES (48x48)") | CES | CentOS | ✅ |
