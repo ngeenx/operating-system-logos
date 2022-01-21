@@ -26,7 +26,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 ## Preview List
 
-⚠️ Total: 104, Available: 65, Unavailable: 39
+⚠️⚠️ Total: 104, Available: 66, Unavailable: 38
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -46,7 +46,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/COS.png "COS (48x48)") | COS | Chrome OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CYN.png "CYN (48x48)") | CYN | CyanogenMod | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEB.png "DEB (48x48)") | DEB | Debian | ✅ |
-| ............ | DEE | Deepin | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEE.png "DEE (48x48)") | DEE | Deepin | ✅ |
 | ............ | DFB | DragonFly | ❌ |
 | ............ | DVK | DVKBuntu | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FED.png "FED (48x48)") | FED | Fedora | ✅ |
