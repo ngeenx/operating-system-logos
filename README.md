@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 94, Available: 74, Unavailable: 20
+⚠️ Total: 92, Available: 75, Unavailable: 17
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -50,7 +50,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEE.png "DEE (48x48)") | DEE | Deepin | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DFB.png "DFB (48x48)") | DFB | DragonFly | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FED.png "FED (48x48)") | FED | Fedora | ✅ |
-| ............ | FEN | Fenix | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FOS.png "FOS (48x48)") | FOS | Firefox OS | ✅ |
 | ............ | FIR | Fire OS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
@@ -71,10 +70,9 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/LBT.png "LBT (48x48)") | LBT | Lubuntu | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png "MAC (48x48)") | MAC | Mac | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAE.png "MAE (48x48)") | MAE | Maemo | ✅ |
-| ............ | MAG | Mageia | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAG.png "MAG (48x48)") | MAG | Mageia | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MDR.png "MDR (48x48)") | MDR | Mandriva | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SMG.png "SMG (48x48)") | SMG | MeeGo | ✅ |
-| ............ | MCD | MocorDroid | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MIN.png "MIN (48x48)") | MIN | Mint | ✅ |
 | ............ | MLD | MildWild | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MOR.png "MOR (48x48)") | MOR | MorphOS | ✅ |
