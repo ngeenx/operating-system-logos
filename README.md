@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 80, Unavailable: 4
+⚠️ Total: 84, Available: 81, Unavailable: 3
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -78,7 +78,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OS2.png "OS2 (48x48)") | OS2 | OS/2 | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OBS.png "OBS (48x48)") | OBS | OpenBSD | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OWR.png "OWR (48x48)") | OWR | OpenWrt | ✅ |
-| ............ | PCL | PCLinuxOS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PCL.png "PCL (48x48)") | PCL | PCLinuxOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PSP.png "PSP (48x48)") | PSP | PlayStation Portable | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PS3.png "PS3 (48x48)") | PS3 | PlayStation | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/RHT.png "RHT (48x48)") | RHT | Red Hat | ✅ |
