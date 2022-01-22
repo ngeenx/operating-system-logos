@@ -1,6 +1,6 @@
 /**
- * This simple server generates available logo list for readme table in markdown format
- * Server start: node list.js
+ * This preview generator is used to generate the preview for the list of
+ * Run script: node list.js
  */
 
 const fs = require('fs');
