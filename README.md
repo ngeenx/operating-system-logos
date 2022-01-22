@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 92, Available: 75, Unavailable: 17
+⚠️ Total: 92, Available: 76, Unavailable: 16
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -53,7 +53,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FOS.png "FOS (48x48)") | FOS | Firefox OS | ✅ |
 | ............ | FIR | Fire OS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
-| ............ | FYD | FydeOS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FYD.png "FYD (48x48)") | FYD | FydeOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GNT.png "GNT (48x48)") | GNT | Gentoo | ✅ |
 | ............ | GTV | Google TV | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HPX.png "HPX (48x48)") | HPX | HP-UX | ✅ |
