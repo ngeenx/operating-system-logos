@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 92, Available: 76, Unavailable: 16
+⚠️ Total: 84, Available: 76, Unavailable: 8
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -60,9 +60,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAI.png "HAI (48x48)") | HAI | Haiku OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/IPA.png "IPA (48x48)") | IPA | iPadOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAR.png "HAR (48x48)") | HAR | HarmonyOS | ✅ |
-| ............ | HAS | HasCodingOS | ❌ |
-| ............ | INF | Inferno | ❌ |
-| ............ | JME | Java ME | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/KOS.png "KOS (48x48)") | KOS | KaiOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/KNO.png "KNO (48x48)") | KNO | Knoppix | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/KBT.png "KBT (48x48)") | KBT | Kubuntu | ✅ |
@@ -74,18 +71,13 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MDR.png "MDR (48x48)") | MDR | Mandriva | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SMG.png "SMG (48x48)") | SMG | MeeGo | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MIN.png "MIN (48x48)") | MIN | Mint | ✅ |
-| ............ | MLD | MildWild | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MOR.png "MOR (48x48)") | MOR | MorphOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/NBS.png "NBS (48x48)") | NBS | NetBSD | ✅ |
-| ............ | MTK | MTK / Nucleus | ❌ |
-| ............ | MRE | MRE | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WII.png "WII (48x48)") | WII | Nintendo | ✅ |
 | ............ | NDS | Nintendo Mobile | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OS2.png "OS2 (48x48)") | OS2 | OS/2 | ✅ |
-| ............ | T64 | OSF1 | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OBS.png "OBS (48x48)") | OBS | OpenBSD | ✅ |
 | ............ | OWR | OpenWrt | ❌ |
-| ............ | ORD | Ordissimo | ❌ |
 | ............ | PCL | PCLinuxOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PSP.png "PSP (48x48)") | PSP | PlayStation Portable | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PS3.png "PS3 (48x48)") | PS3 | PlayStation | ✅ |
