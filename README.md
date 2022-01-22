@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 73, Unavailable: 31
+⚠️ Total: 99, Available: 73, Unavailable: 26
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -42,7 +42,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BEO.png "BEO (48x48)") | BEO | BeOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BLB.png "BLB (48x48)") | BLB | BlackBerry OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/QNX.png "QNX (48x48)") | QNX | BlackBerry Tablet OS | ✅ |
-| ............ | BMP | Brew | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CAI.png "CAI (48x48)") | CAI | Caixa Mágica | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/CES.png "CES (48x48)") | CES | CentOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/COS.png "COS (48x48)") | COS | Chrome OS | ✅ |
@@ -55,7 +54,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ............ | FEN | Fenix | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FOS.png "FOS (48x48)") | FOS | Firefox OS | ✅ |
 | ............ | FIR | Fire OS | ❌ |
-| ............ | FRE | Freebox | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
 | ............ | FYD | FydeOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GNT.png "GNT (48x48)") | GNT | Gentoo | ✅ |
@@ -104,11 +102,9 @@ Image files are named according to these titles (*see the **[reference](https://
 | ............ | RSO | Rosa | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/REM.png "REM (48x48)") | REM | Remix OS | ✅ |
 | ............ | REX | REX | ❌ |
-| ............ | RZD | RazoDroiD | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SAB.png "SAB (48x48)") | SAB | Sabayon | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SSE.png "SSE (48x48)") | SSE | SUSE | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SAF.png "SAF (48x48)") | SAF | Sailfish OS | ✅ |
-| ............ | SEE | SeewoOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SLW.png "SLW (48x48)") | SLW | Slackware | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SOS.png "SOS (48x48)") | SOS | Solaris | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SYL.png "SYL (48x48)") | SYL | Syllable | ✅ |
@@ -119,7 +115,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SY3.png "SY3 (48x48)") | SY3 | Symbian^3 | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/TDX.png "TDX (48x48)") | TDX | ThreadX | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/TIZ.png "TIZ (48x48)") | TIZ | Tizen | ✅ |
-| ............ | TOS | TmaxOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png "UBT (48x48)") | UBT | Ubuntu | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WAS.png "WAS (48x48)") | WAS | watchOS | ✅ |
 | ............ | WTV | WebTV | ❌ |
