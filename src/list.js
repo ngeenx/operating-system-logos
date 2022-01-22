@@ -18,7 +18,7 @@ function updateList(newData) {
         }
 
         if (data) {
-            const match = data.match('<!-- TABLE_START -->((.|\n|\s|\r)*)<!-- TABLE_END -->');;
+            const match = data.match('<!-- TABLE_START -->((.|\n|\s|\r)*)<!-- TABLE_END -->');
 
             if (match && match[1]) {
                 data = data.replace(match[1], `\n\n${newData}\n`);
