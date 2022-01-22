@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 81, Unavailable: 3
+⚠️ Total: 84, Available: 82, Unavailable: 2
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -55,7 +55,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FYD.png "FYD (48x48)") | FYD | FydeOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GNT.png "GNT (48x48)") | GNT | Gentoo | ✅ |
-| ............ | GTV | Google TV | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GTV.png "GTV (48x48)") | GTV | Google TV | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HPX.png "HPX (48x48)") | HPX | HP-UX | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAI.png "HAI (48x48)") | HAI | Haiku OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/IPA.png "IPA (48x48)") | IPA | iPadOS | ✅ |
