@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 77, Unavailable: 7
+⚠️ Total: 84, Available: 78, Unavailable: 6
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -51,7 +51,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DFB.png "DFB (48x48)") | DFB | DragonFly | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FED.png "FED (48x48)") | FED | Fedora | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FOS.png "FOS (48x48)") | FOS | Firefox OS | ✅ |
-| ............ | FIR | Fire OS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FIR.png "FIR (48x48)") | FIR | Fire OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FYD.png "FYD (48x48)") | FYD | FydeOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GNT.png "GNT (48x48)") | GNT | Gentoo | ✅ |
