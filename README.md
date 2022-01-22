@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 99, Available: 73, Unavailable: 26
+⚠️ Total: 99, Available: 74, Unavailable: 25
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -101,7 +101,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ............ | ROK | Roku OS | ❌ |
 | ............ | RSO | Rosa | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/REM.png "REM (48x48)") | REM | Remix OS | ✅ |
-| ............ | REX | REX | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/REX.png "REX (48x48)") | REX | REX | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SAB.png "SAB (48x48)") | SAB | Sabayon | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SSE.png "SSE (48x48)") | SSE | SUSE | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/SAF.png "SAF (48x48)") | SAF | Sailfish OS | ✅ |
