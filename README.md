@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 70, Unavailable: 34
+⚠️ Total: 104, Available: 71, Unavailable: 33
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -123,7 +123,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png "UBT (48x48)") | UBT | Ubuntu | ✅ |
 | ............ | WAS | watchOS | ❌ |
 | ............ | WTV | WebTV | ❌ |
-| ............ | WHS | Whale OS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WHS.png "WHS (48x48)") | WHS | Whale OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png "WIN (48x48)") | WIN | Windows | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WCE.png "WCE (48x48)") | WCE | Windows CE | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIO.png "WIO (48x48)") | WIO | Windows IoT | ✅ |
