@@ -1,6 +1,9 @@
 # operating-system-logos
 Operating system logos in different sizes 
 
+![EgoistDeveloper operating-system-logos](https://preview.dragon-code.pro/EgoistDeveloper/operating-system-logos.svg)
+
+
 ## Installation
 
 ```
@@ -28,7 +31,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 83, Unavailable: 1
+⚠️ Total: 83, Available: 83, Unavailable: 0
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -102,7 +105,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/TIZ.png "TIZ (48x48)") | TIZ | Tizen | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png "UBT (48x48)") | UBT | Ubuntu | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WAS.png "WAS (48x48)") | WAS | watchOS | ✅ |
-| ............ | WTV | WebTV | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WHS.png "WHS (48x48)") | WHS | Whale OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png "WIN (48x48)") | WIN | Windows | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WCE.png "WCE (48x48)") | WCE | Windows CE | ✅ |

@@ -1,6 +1,6 @@
 {
   "name": "@egoistdeveloper/operating-system-logos",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "description": "Operating System Logos in Different Sizes",
   "main": "index.js",
   "scripts": {
