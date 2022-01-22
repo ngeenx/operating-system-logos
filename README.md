@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 76, Unavailable: 8
+⚠️ Total: 84, Available: 77, Unavailable: 7
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -77,7 +77,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ............ | NDS | Nintendo Mobile | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OS2.png "OS2 (48x48)") | OS2 | OS/2 | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OBS.png "OBS (48x48)") | OBS | OpenBSD | ✅ |
-| ............ | OWR | OpenWrt | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OWR.png "OWR (48x48)") | OWR | OpenWrt | ✅ |
 | ............ | PCL | PCLinuxOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PSP.png "PSP (48x48)") | PSP | PlayStation Portable | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PS3.png "PS3 (48x48)") | PS3 | PlayStation | ✅ |
