@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 99, Available: 74, Unavailable: 25
+⚠️ Total: 94, Available: 74, Unavailable: 20
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -49,7 +49,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEB.png "DEB (48x48)") | DEB | Debian | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEE.png "DEE (48x48)") | DEE | Deepin | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DFB.png "DFB (48x48)") | DFB | DragonFly | ✅ |
-| ............ | DVK | DVKBuntu | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FED.png "FED (48x48)") | FED | Fedora | ✅ |
 | ............ | FEN | Fenix | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/FOS.png "FOS (48x48)") | FOS | Firefox OS | ✅ |
@@ -57,14 +56,12 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/BSD.png "BSD (48x48)") | BSD | FreeBSD | ✅ |
 | ............ | FYD | FydeOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/GNT.png "GNT (48x48)") | GNT | Gentoo | ✅ |
-| ............ | GRI | GridOS | ❌ |
 | ............ | GTV | Google TV | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HPX.png "HPX (48x48)") | HPX | HP-UX | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAI.png "HAI (48x48)") | HAI | Haiku OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/IPA.png "IPA (48x48)") | IPA | iPadOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/HAR.png "HAR (48x48)") | HAR | HarmonyOS | ✅ |
 | ............ | HAS | HasCodingOS | ❌ |
-| ............ | IRI | IRIX | ❌ |
 | ............ | INF | Inferno | ❌ |
 | ............ | JME | Java ME | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/KOS.png "KOS (48x48)") | KOS | KaiOS | ✅ |
@@ -72,8 +69,6 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/KBT.png "KBT (48x48)") | KBT | Kubuntu | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/LIN.png "LIN (48x48)") | LIN | GNU/Linux | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/LBT.png "LBT (48x48)") | LBT | Lubuntu | ✅ |
-| ............ | LOS | Lumin OS | ❌ |
-| ............ | VLN | VectorLinux | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png "MAC (48x48)") | MAC | Mac | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAE.png "MAE (48x48)") | MAE | Maemo | ✅ |
 | ............ | MAG | Mageia | ❌ |
