@@ -23,11 +23,6 @@ npm i @egoistdeveloper/operating-system-logos
 ## List of operating system names and custom short codes
 Image files are named according to these titles (*see the **[reference](https://github.com/matomo-org/device-detector/blob/228eef9a40f611a6661f1c93ee64c2c687dd3f11/Parser/OperatingSystem.php#L40)***). Current and frequently used logos defining operating systems were selected. Therefore, the version or naming differences were ignored when listing.
 
-❌ unavailable\
-✅ available\
-⭕ not completed
-
-
 ## Preview List
 
 <!-- TABLE_START -->
