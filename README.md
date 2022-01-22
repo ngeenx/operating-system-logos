@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 72, Unavailable: 32
+⚠️ Total: 104, Available: 73, Unavailable: 31
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -84,7 +84,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ............ | MCD | MocorDroid | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MIN.png "MIN (48x48)") | MIN | Mint | ✅ |
 | ............ | MLD | MildWild | ❌ |
-| ............ | MOR | MorphOS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MOR.png "MOR (48x48)") | MOR | MorphOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/NBS.png "NBS (48x48)") | NBS | NetBSD | ✅ |
 | ............ | MTK | MTK / Nucleus | ❌ |
 | ............ | MRE | MRE | ❌ |
