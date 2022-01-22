@@ -80,7 +80,7 @@ try {
 
     const totalStatistics = `⚠️ Total: ${osList.length}, Available: ${availableItems}, Unavailable: ${osList.length - availableItems}`;
 
-    // console.log(`\n${totalStatistics}\n\n`);
+    console.log(`\n${totalStatistics}\n\n`);
 
     updateList(`${totalStatistics}\n\n${tableMarkdown}`);
 } catch (err) {
