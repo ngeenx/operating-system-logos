@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 78, Unavailable: 6
+⚠️ Total: 84, Available: 79, Unavailable: 5
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -83,7 +83,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/PS3.png "PS3 (48x48)") | PS3 | PlayStation | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/RHT.png "RHT (48x48)") | RHT | Red Hat | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ROS.png "ROS (48x48)") | ROS | RISC OS | ✅ |
-| ............ | ROK | Roku OS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ROK.png "ROK (48x48)") | ROK | Roku OS | ✅ |
 | ............ | RSO | Rosa | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/REM.png "REM (48x48)") | REM | Remix OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/REX.png "REX (48x48)") | REX | REX | ✅ |
