@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 104, Available: 71, Unavailable: 33
+⚠️ Total: 104, Available: 72, Unavailable: 32
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -121,7 +121,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/TIZ.png "TIZ (48x48)") | TIZ | Tizen | ✅ |
 | ............ | TOS | TmaxOS | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png "UBT (48x48)") | UBT | Ubuntu | ✅ |
-| ............ | WAS | watchOS | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WAS.png "WAS (48x48)") | WAS | watchOS | ✅ |
 | ............ | WTV | WebTV | ❌ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WHS.png "WHS (48x48)") | WHS | Whale OS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png "WIN (48x48)") | WIN | Windows | ✅ |
