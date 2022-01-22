@@ -28,7 +28,7 @@ Image files are named according to these titles (*see the **[reference](https://
 
 <!-- TABLE_START -->
 
-⚠️ Total: 84, Available: 82, Unavailable: 2
+⚠️ Total: 84, Available: 83, Unavailable: 1
 
 | Preview | Code | Name | Status |
 | ------- | ---- | ---- | ------ |
@@ -74,7 +74,7 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MOR.png "MOR (48x48)") | MOR | MorphOS | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/NBS.png "NBS (48x48)") | NBS | NetBSD | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WII.png "WII (48x48)") | WII | Nintendo | ✅ |
-| ............ | NDS | Nintendo Mobile | ❌ |
+| ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/NDS.png "NDS (48x48)") | NDS | Nintendo Mobile | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OS2.png "OS2 (48x48)") | OS2 | OS/2 | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OBS.png "OBS (48x48)") | OBS | OpenBSD | ✅ |
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/OWR.png "OWR (48x48)") | OWR | OpenWrt | ✅ |
