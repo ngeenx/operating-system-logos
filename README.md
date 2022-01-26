@@ -20,6 +20,8 @@ npm i @egoistdeveloper/operating-system-logos
 - 64x64
 - 128x128
 
+All icons serving as `.png` format.
+
 ## List of operating system names and custom short codes
 Image files are named according to these titles (*see the **[reference](https://github.com/matomo-org/device-detector/blob/228eef9a40f611a6661f1c93ee64c2c687dd3f11/Parser/OperatingSystem.php#L40)***). Current and frequently used logos defining operating systems were selected. Therefore, the version or naming differences were ignored when listing.
 
@@ -116,6 +118,13 @@ Image files are named according to these titles (*see the **[reference](https://
 | ![](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WOS.png "WOS (48x48)") | WOS | webOS | ✅ |
 
 <!-- TABLE_END -->
+
+
+## Contribution
+
+When you find a lost os icon, add related folders with required sizes (*listed above*). Then add unique uppercase alpha3 short code (*also this is going to be filename*) and with name to `list.json`. Finally go to `src` folder and run `node list.js` command (*obviously nodejs must be installed*). `list.js` generates automatically preview list and updates this `readme.md` file (*this option useful for multiple icons*). All files must be `.png` format.
+
+Also this repo open for SVG support, waiting PR's.
 
 
 ## Legal
