@@ -9,6 +9,11 @@ const sizeList = [16, 24, 32, 48, 64, 128],
     baseRepoAddress = 'https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master',
     previewSize = '48x48';
 
+/**
+ * Update readme preview list
+ * 
+ * @param {string} newData 
+ */
 function updateList(newData) {
     fs.readFile('./../README.md', 'utf8', (err, data) => {
         if (err) {
@@ -34,10 +39,23 @@ function updateList(newData) {
     });
 }
 
+function copyWithSlug(osCode, osName) {
+    const slug = osName.toLowerCase().replace(/ /g,'-').replace(/[-]+/g, '-').replace(/[^\w-]+/g,'');
+
+    const slugItem = {
+        code: osCode,
+        name: osName,
+        slug: slug
+    };
+
+    return slugItem;
+}
+
 try {
-    let osList = JSON.parse(fs.readFileSync('list.json')),
+    let osList = JSON.parse(fs.readFileSync('alpha3-list.json')),
         tableMarkdown = `| Preview | Code | Name | Status |\n| ------- | ---- | ---- | ------ |\n`,
-        availableItems = 0;
+        availableItems = 0,
+        slugList = [];
 
     osList = Object.entries(osList);
 
@@ -64,15 +82,17 @@ try {
         if (logoStackCount == 0) {
             tableMarkdown += `| ............ | ${osCode} | ${osName} | ❌ |\n`;
 
-            // console.log(`❌ ${osName} (${osCode}): all logos not found.\n--------------------------`);
+            console.log(`❌ ${osName} (${osCode}): all logos not found.\n--------------------------`);
         } else if (logoStackCount == sizeList.length) {
             tableMarkdown += `| ![](${baseRepoAddress}/src/${previewSize}/${osCode}.png "${osCode} (${previewSize})") | ${osCode} | ${osName} | ✅ |\n`;
+
+            slugList.push(copyWithSlug(osCode, osName));
 
             availableItems += 1;
         } else if (logoStackCount > 0 && logoStackCount < sizeList.length) {
             tableMarkdown += `| ............ | ${osCode} | ${osName} | ⭕ |\n`;
 
-            // console.log(`⭕ ${osName} (${osCode}): ${sizeList.length - logoStackCount} logos missing (sizes: ${missingSizes.join(', ')})\n--------------------------`);
+            console.log(`⭕ ${osName} (${osCode}): ${sizeList.length - logoStackCount} logos missing (sizes: ${missingSizes.join(', ')})\n--------------------------`);
         }
 
         //#endregion
@@ -83,6 +103,14 @@ try {
     console.log(`\n${totalStatistics}\n\n`);
 
     updateList(`${totalStatistics}\n\n${tableMarkdown}`);
+
+    if (slugList) {
+        fs.writeFile('./os-list.json', JSON.stringify(slugList, null, 2), function (err) {
+            if (err) throw err;
+
+            console.log('slug-list.json updated!');
+        });
+    }
 } catch (err) {
     console.log(err.toString());
 }
