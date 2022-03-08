@@ -1,8 +1,8 @@
 # operating-system-logos
 
-![EgoistDeveloper operating-system-logos](https://preview.dragon-code.pro/EgoistDeveloper/operating-system-logos.svg)
+[![EgoistDeveloper operating-system-logos](https://preview.dragon-code.pro/EgoistDeveloper/operating-system-logos.svg)](https://github.com/EgoistDeveloper/operating-system-logos)
 
-OS (Operating System) logos list in different sizes. It helps statistic or log listing and graph visualizing. This package contains +80 OS logos.
+OS (Operating System) logos list in different sizes. This package contains +80 OS logos and it helps statistic or log listing and graph visualizing.
 
 ## Installation
 
