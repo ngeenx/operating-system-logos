@@ -13,7 +13,7 @@ npm i @egoistdeveloper/operating-system-logos
 ## Available Sizes
 
 - 16x16
-- 24-x24
+- 24x24
 - 32x32
 - 48x48
 - 64x64
