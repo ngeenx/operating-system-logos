@@ -245,6 +245,11 @@
     "slug": "playstation"
   },
   {
+    "code": "RAS",
+    "name": "Raspberry Pi",
+    "slug": "raspberrypi"
+  },
+  {
     "code": "RHT",
     "name": "Red Hat",
     "slug": "red-hat"
